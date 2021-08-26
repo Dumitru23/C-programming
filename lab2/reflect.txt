@@ -1,0 +1,15 @@
+//----------------------------------------------
+// Name:           Mindrigan Dumitru 
+// Student Number: 140920174
+// Email:          dmindrigan@myseneca.ca
+// Section:        SFF
+// Workshop:       2 (at_home)
+//----------------------------------------------
+
+While doing this lab at home I learn how to cast from one type of data to another one. 
+changes = (int)rest_ln; //81.00 -> 81 (here I changev type (I cast it from one type to another) from double to int)
+
+Also I used binary operand divide to find the left part of operand.
+I used binary operand % (mod) to calculate the remainder of the division. 
+
+
