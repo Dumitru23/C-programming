@@ -1,0 +1,6 @@
+IPC 144 SFF Dumitru Mindrigan. 
+
+Hi Prof. Sunny Shi. 
+So in this Workshop N1 I followed instructions and learned how to launch a project in MS Visual Studio 2017. I created the first program in C programming. I learned how to compile and check errors. 
+I used SSH client like PUTTY to create a directory w01 and enter it with cd w01 command.  I compile and run it with command gcc w1_lab.c –o w1. I used SFTP client (SSH file Transferring Protocol) to transfer securely from local computer to the server matrix in the directory w01. 
+I created a new program later, I repeated the same steps, like previously one, but this time for the new program.     
