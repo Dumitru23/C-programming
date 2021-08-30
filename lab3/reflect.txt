@@ -1,0 +1,20 @@
+//----------------------------------------------
+
+// Name:           Mindrigan Dumitru
+// Student Number: 140920174
+// Email:          dmindriganID@myseneca.ca
+
+// Section:        SFF
+// Workshop:       3 (at-home)
+
+//----------------------------------------------
+
+1) 	Pseudo-code helped me to follow the steps in order to make up a nice and understandable coding in C. 
+	Sometimes I used flow-charts. This one helps me to build a correct algorithm. 
+	Even if I have small coding issues, I fix them by detecting errors after debugging.
+ 
+2) 	 I used FOR because it's easy for me to use all in one (initaization, cond, change). It looks compact.   
+	And the second was a WHILE, because it was easier for me to write a long logic expression. 
+	At the same time I needed to check the high temperature value (var high) and low temperature (var low). 
+
+3) 	It was difficult for me to retain value of heist temperature. (to create the correct algorithm forheist temperature and low as well)
