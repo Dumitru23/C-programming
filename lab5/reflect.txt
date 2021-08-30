@@ -1,0 +1,15 @@
+Mindrigan Dumitru
+id  140920174
+IPC144 SFF 
+
+------------Advantages ousing array of struct-----------------------
+
+*First of all array of structure can hold different data types (var of int, float, double, char, and arrays)
+which are grouped together. Parallel Arrays structure don't have this type of option to hold 
+a collection of structure together. We used in the program just one type of datatype, 
+but work with different information.
+
+* The Employee struct is declared in the file emp_athome.c  with program I created. 
+But I could also created in a separate file (struct.h) and just mention in the header (in the emp_athome file with name I created). 
+There are some advantages creating separately this file. One of that is that we can use for other programs in C or C++.
+ Other one is changing one file doesn’t affect main file.  And for some security purpose too.    
