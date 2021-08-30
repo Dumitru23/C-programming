@@ -1,0 +1,19 @@
+1. I like to use arrays. It was easier for me to find max_elem and min_elem than in previously problem N-3. 
+It is easy to initialize elements just using one loop instructions for. Also it's easy to output elements, 
+as well to work with some specific elements from the array. 
+
+2. Parallel arrays has some advantages. It's easier to understand and use. 
+Parallel array is easier to use than other type as record (struct). 
+Also I think that they can save some amount of memory in a specific solved problem. 
+The disadvantages of parallel array are following: 
+We should know in advance the number of elements stored in array. 
+Both arrays should have identic size. You can't make a loop using different size of 2 arrays. 
+The program might occur and problem will not run or will output unexpected errors. 
+Arrays has a fixed size, so the memory once allocated is wasted. (if we compare with dynamic memory) 
+Parallel arrays are used just in a specific problems. (Narrow usage). 
+
+3. Initializing with zero is a common practice, because at the begging element of array have randomly value.
+Using elements of array later in simple or difficult operation might bring unexpected results 
+(semantic mistakes and syntactic ones too).
+Also in case we didn’t initialize the whole array, we can output and see where and what was our mistake. 
+
